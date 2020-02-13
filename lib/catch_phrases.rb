@@ -11,3 +11,7 @@ end
 def link
   puts one = "It's Dangerous To Go Alone! Take This.\n"
 end
+
+def any_phrase(fra)
+  puts two = "Do A Barrel Roll!\n"
+end
